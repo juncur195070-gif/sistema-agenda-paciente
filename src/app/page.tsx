@@ -7,7 +7,7 @@ export default function HomePage() {
             <p className="mb-8 text-gray-600">Sistema de gestión de citas médicas online</p>
             <div className="space-y-4">
                 <p className="text-sm text-gray-500">
-                    Ingresa a una clínica usando: <code className="rounded bg-gray-100 px-2 py-1">/clinic/[orgId]</code>
+                    Ingresa a una clínica usandoooooooooooooooooooo: <code className="rounded bg-gray-100 px-2 py-1">/clinic/[orgId]</code>
                 </p>
                 <div className="flex justify-center gap-4">
                     <Link href="/login" className="rounded bg-blue-600 px-6 py-2 text-white hover:bg-blue-700">
